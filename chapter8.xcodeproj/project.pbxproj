@@ -13,6 +13,8 @@
 		6B1D656D263FA621007554D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B1D656B263FA621007554D0 /* Main.storyboard */; };
 		6B1D656F263FA623007554D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B1D656E263FA623007554D0 /* Assets.xcassets */; };
 		6B1D6572263FA623007554D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B1D6570263FA623007554D0 /* LaunchScreen.storyboard */; };
+		6B5A52C02640D7C00058A187 /* Type1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5A52BF2640D7C00058A187 /* Type1.swift */; };
+		6BECB79E2643F521008DE22C /* NewsDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BECB79D2643F521008DE22C /* NewsDetailController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6B1D656E263FA623007554D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B1D6571263FA623007554D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B1D6573263FA623007554D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B5A52BF2640D7C00058A187 /* Type1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Type1.swift; sourceTree = "<group>"; };
+		6BECB79D2643F521008DE22C /* NewsDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				6B1D656E263FA623007554D0 /* Assets.xcassets */,
 				6B1D6570263FA623007554D0 /* LaunchScreen.storyboard */,
 				6B1D6573263FA623007554D0 /* Info.plist */,
+				6B5A52BF2640D7C00058A187 /* Type1.swift */,
+				6BECB79D2643F521008DE22C /* NewsDetailController.swift */,
 			);
 			path = chapter8;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B1D656A263FA621007554D0 /* ViewController.swift in Sources */,
+				6BECB79E2643F521008DE22C /* NewsDetailController.swift in Sources */,
+				6B5A52C02640D7C00058A187 /* Type1.swift in Sources */,
 				6B1D6566263FA621007554D0 /* AppDelegate.swift in Sources */,
 				6B1D6568263FA621007554D0 /* SceneDelegate.swift in Sources */,
 			);
